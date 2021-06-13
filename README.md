@@ -18,6 +18,5 @@
 ![Screenshot 2021-06-13 215111](https://user-images.githubusercontent.com/20855298/121818721-87775100-cc91-11eb-8b7c-aac097b8130a.jpg)
 6.Комитем новую версию файла
 
-
 ![Screenshot 2021-06-13 215318](https://user-images.githubusercontent.com/20855298/121818771-da510880-cc91-11eb-8f85-890817894484.jpg)
 7.Пушим комит
