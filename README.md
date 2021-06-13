@@ -22,4 +22,5 @@
 
 7.Пушим комит
 
-![Screenshot 2021-06-13 215318](https://user-images.githubusercontent.com/20855298/121819095-fa81c700-cc93-11eb-905b-04124f6eba31.jpg)
+![Screenshot 2021-06-13 221211](https://user-images.githubusercontent.com/20855298/121819180-6a904d00-cc94-11eb-9eb2-c5b063904e21.jpg)
+
