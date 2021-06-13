@@ -4,7 +4,7 @@
 
 ![photo_2021-06-13_21-46-32](https://user-images.githubusercontent.com/20855298/121818601-d7094d00-cc90-11eb-87c8-4fc086b81086.jpg)
 
-3.Подключаем/n
+3.Подключаем
 
 ![photo_2021-06-13_21-46-35](https://user-images.githubusercontent.com/20855298/121818620-fc965680-cc90-11eb-948f-69547f76d148.jpg)
 
@@ -21,3 +21,4 @@
 ![Screenshot 2021-06-13 215318](https://user-images.githubusercontent.com/20855298/121818771-da510880-cc91-11eb-8f85-890817894484.jpg)
 
 7.Пушим комит
+
