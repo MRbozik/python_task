@@ -24,7 +24,7 @@
 
 ![Screenshot 2021-06-13 221211](https://user-images.githubusercontent.com/20855298/121819180-6a904d00-cc94-11eb-9eb2-c5b063904e21.jpg)
 
-8.Попробовал снова сделать серез консоль с SSH 
+8.Попробовал снова сделать через консоль с SSH 
 
 ![Screenshot 2021-06-15 120511](https://user-images.githubusercontent.com/20855298/122025543-17bcaf80-cdd2-11eb-9c80-72ecd0fbc4c0.jpg)
 
