@@ -1,4 +1,4 @@
-# python_task1
+# python_task
 1. Врублевський Олексій КН-20002Б
 2. Создаём SSH KEY
 
