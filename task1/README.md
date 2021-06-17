@@ -19,3 +19,11 @@
 
 
 ![image](https://user-images.githubusercontent.com/20855298/122219868-870ccf00-ceb8-11eb-81c3-7a9170aea495.png)
+
+
+6.Сделал всё так же. Только ещё создал task_1.py с помощью touch и вписал туда код программы через vim. Всё сделал через консоль + shh.
+
+![photo_2021-06-17_16-10-46](https://user-images.githubusercontent.com/20855298/122402920-98bca800-cf86-11eb-9e08-0bfdcce08add.jpg)
+
+
+![Screenshot 2021-06-16 153522](https://user-images.githubusercontent.com/20855298/122402922-99553e80-cf86-11eb-8580-c347f690b28f.jpg)
