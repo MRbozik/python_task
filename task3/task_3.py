@@ -1,8 +1,8 @@
 import http.client
 from tkinter import *
 import re
-
-
+import sys
+import os
 # Поиск информации по стране, ключ-слову в tmp
 def search_info(country,tmp,key_word):
     result_country = re.search(country, tmp)
@@ -42,4 +42,9 @@ for i in range(len(lst_country)):
     for j in range (len(lst_search)):
         lab_search = Label(root, text = search_info(lst_country[i],tmp,lst_search[j]),font ="Arial 14",fg = "green" )
         lab_search.place(x = 20, y = 50*i*4+30*(j+1))
+#Перезапуск программы для обновления данных 
+def restartProgram():
+    os.execl(sys.executable, os.path.abspath('civid.py'), *sys.argv)         
+restartButton = Button(text = "RESTART", command = restartProgram)
+restartButton.place(x = 400, y = 100, width = 200, height = 40)
 root.mainloop()
