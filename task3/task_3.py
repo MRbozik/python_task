@@ -44,7 +44,7 @@ for i in range(len(lst_country)):
         lab_search.place(x = 20, y = 50*i*4+30*(j+1))
 #Перезапуск программы для обновления данных 
 def restartProgram():
-    os.execl(sys.executable, os.path.abspath('civid.py'), *sys.argv)         
+    os.execl(sys.executable, os.path.abspath('task_3.py'), *sys.argv)         
 restartButton = Button(text = "RESTART", command = restartProgram)
 restartButton.place(x = 400, y = 100, width = 200, height = 40)
 root.mainloop()
