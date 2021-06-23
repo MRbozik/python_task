@@ -55,5 +55,5 @@ for button in buttons:
         y += 81
 
 
-window.mainloop
+window.mainloop()
 
