@@ -30,7 +30,6 @@ conn.request("GET", "/api/npm-covid-data/asia", headers=headers)
 res = conn.getresponse()
 data = res.read()
 tmp = data.decode("utf-8")
-print(data.decode("utf-8"))
 lst_country = ["India","Turkey","Indonesia","Iraq","Israel"]
 lst_search = ["TotalCases","NewCases","TotalDeaths","NewDeaths","TotalRecovered"]
 #Show
