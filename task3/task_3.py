@@ -17,8 +17,6 @@ def search_info(country,tmp,key_word):
             while tmp[end_search+i+end_country] != ",":
                 s += tmp[end_search+i+end_country]
                 i+=1
-
-            print(s)
             return s
         else: break
 
